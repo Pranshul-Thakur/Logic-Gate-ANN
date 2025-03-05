@@ -1,2 +1,2 @@
 # Logic Gate ANN
- apparently this was too good for assesment
+ Neural Network for the 5 basic Logic gates
